@@ -7,7 +7,7 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<img src="<?php echo base_url('assets/images/earth-globe.svg'); ?>" class="svg" alt="">
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Online Courses</h2>
+								<h2 class="hero_box_title">Мы</h2>
 								<a href="courses.html" class="hero_box_link">view more</a>
 							</div>
 						</div>
@@ -17,7 +17,7 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<img src="<?php echo base_url('assets/images/books.svg'); ?>" class="svg" alt="">
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Our Library</h2>
+								<h2 class="hero_box_title">Учеба</h2>
 								<a href="courses.html" class="hero_box_link">view more</a>
 							</div>
 						</div>
@@ -27,7 +27,7 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<img src="<?php echo base_url('assets/images/professor.svg'); ?>" class="svg" alt="">
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Our Teachers</h2>
+								<h2 class="hero_box_title">Наука</h2>
 								<a href="teachers.html" class="hero_box_link">view more</a>
 							</div>
 						</div>
